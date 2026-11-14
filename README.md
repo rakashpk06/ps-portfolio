@@ -1,17 +1,76 @@
-# Rakash Pradeep Kumar | Professional Skills E-Portfolio (IT1215)
-Open `index.html` in a browser. No install needed.
+# Professional Skills E-Portfolio (IT1215)
 
-## Structure
-Hero and contents, About and skills, Weekly Journal (Weeks 1 to 9 and the Zoo project, all content visible), Personal development (SWOT), Learning outcome coverage, Evidence gallery, Final reflection, Contact.
+**Rakash Pradeep Kumar**
+Higher Diploma in Information Technology · SLIIT City Uni (SCU)
+Year 2 · Semester 2
 
-## Images
-Each empty image slot shows a grey box with the exact file name. Save your photo with that name in `assets/images/` and refresh.
-Slots: week1-class, johari-window, paper-craft-1, paper-craft-2, mock-interview, interview-activity, cv-preview, cover-letter-preview, eq-activity, personal-brand, linkedin-profile, email-activity, negotiation-activity, problem-solving, office-survival-1, office-survival-answer-sheet, zoo-team, zoo-event, zoo-quiz, zoo-gifts, lecture-1, group-project, presentation, project, certificate (all .jpg). `profile.jpg` is included.
+🔗 **Live site:** https://rakashpk06.github.io/ps-portfolio/
 
-## Your words and files
-- Search `index.html` for `[ADD` for every reflection and evidence placeholder.
-- CV: `assets/cv.pdf`. Cover letter: `assets/cover-letter.pdf`.
-- Skill levels: the `data-l` values in the skills meters.
+---
 
-## GitHub Pages
-Upload the folder contents, then Settings > Pages > deploy from `main` / root.
+## About this project
+
+This is my self-reflective E-Portfolio for the **Professional Skills (IT1215)** module. It records what I learned each week, the evidence I collected, and how I plan to use these skills in my IT career.
+
+## What's inside
+
+- **Weekly journal:** Weeks 1 to 9, each with key concepts, evidence and my reflection
+- **Group project:** Zoo Awareness Program
+- **Group activity:** The Office Survival Challenge
+- **Skills overview:** self-assessed skill levels (not official qualifications)
+- **Personal development:** SWOT analysis and development plan
+- **Learning outcome coverage:** LO1 to LO12 mapped to the sections
+- **Final reflection:** "Looking back. Moving forward."
+
+## Weeks covered
+
+| Week | Topic |
+|------|-------|
+| 1 | Introduction to Professional Skills |
+| 2 | Portfolio Writing and the Paper Craft Challenge |
+| 3 | Interview Skills |
+| 4 | CV Writing |
+| 5 | Emotional Intelligence |
+| 6 | Building a Personal Brand |
+| 7 | Professional Etiquette in Communication |
+| 8 | The Office Survival Challenge |
+| 9 | Negotiation Skills |
+
+## Features
+
+- Fully responsive layout for mobile, tablet and desktop
+- Light and dark mode
+- Interactive CV checklist and Week 9 quiz
+- Filterable evidence gallery with image preview
+- Reading progress bar and week navigation
+
+## Built with
+
+HTML5 · CSS3 · Vanilla JavaScript (no frameworks or libraries)
+
+## Project structure
+
+```
+ps-portfolio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── images/
+│   ├── cv.pdf
+│   └── cover-letter.pdf
+└── README.md
+```
+
+## Run locally
+
+1. Download or clone this repository.
+2. Open `index.html` in any web browser.
+
+No installation is needed.
+
+---
+
+© 2026 Rakash Pradeep Kumar · SLIIT City Uni
